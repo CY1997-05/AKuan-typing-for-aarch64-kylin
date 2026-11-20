@@ -1,0 +1,16 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>data/wubi_level2.txt</file>
+        <file>data/wubi_level3.txt</file>
+        <file>data/wubi_level4.txt</file>
+        <file>data/word2.txt</file>
+        <file>data/word3.txt</file>
+        <file>data/word4.txt</file>
+        <file>data/word5.txt</file>
+        <file>data/common.txt</file>
+        <file>data/practice.txt</file>
+        <file>data/sample.txt</file>
+        <file>data/about.txt</file>
+    </qresource>
+</RCC>
